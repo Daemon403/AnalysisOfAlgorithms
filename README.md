@@ -1,5 +1,5 @@
-# AnalysisOfAlgorithms
-This is a project of the implementation ot the Kuskal and Prim Algorithms to find MST using greed methods
+# Algorithm Design and Analysis Final Team Project
+
 # Kruskal and Prim Minimum Spanning Tree Algorithms
 
 This repository contains Python implementations of the Kruskal and Prim algorithms for finding the minimum spanning tree (MST) of a weighted graph. The code also includes functionalities for analyzing the time and space complexities of these algorithms.
@@ -36,3 +36,4 @@ The code includes functions for analyzing the time complexity of both algorithms
 ## Space Complexity Analysis
 
 Similarly, the code provides functions to analyze the space complexity of the algorithms. It measures the space usage for different input sizes and plots a graph illustrating the space requirements as the input size increases.
+
