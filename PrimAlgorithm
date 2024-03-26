@@ -1,4 +1,0 @@
-def main():
-    print("Welcome to the Prim Algorithmn implementation using Python")
-if __name__ == "__main__":
-    main()
